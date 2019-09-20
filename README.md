@@ -1,3 +1,5 @@
+![molecules](https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/in-pharmatechnologist.com/article/2019/01/16/small-molecule-discovery-boosted-by-ai-and-big-data/9033903-1-eng-GB/Small-molecule-discovery-boosted-by-AI-and-big-data_wrbm_large.jpg)
+
 # Introduction
 This is one of the project from the internship at GSI Technology. 
 This project focuses on the topic of cheminformatics, specifically, molecule similarity search. 
