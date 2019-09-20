@@ -3,7 +3,7 @@
 </p>
 
 # Introduction
-This is one of the project from the internship at GSI Technology. 
+This is one of the project from the 2019 internship at GSI Technology. 
 This project focuses on the topic of cheminformatics, specifically, molecule similarity search. 
 
 # Getting Started
