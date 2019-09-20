@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="300" src="https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/in-pharmatechnologist.com/article/2019/01/16/small-molecule-discovery-boosted-by-ai-and-big-data/9033903-1-eng-GB/Small-molecule-discovery-boosted-by-AI-and-big-data_wrbm_large.jp">
+  <img src="https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/in-pharmatechnologist.com/article/2019/01/16/small-molecule-discovery-boosted-by-ai-and-big-data/9033903-1-eng-GB/Small-molecule-discovery-boosted-by-AI-and-big-data_wrbm_large.jp">
 </p>
 ![molecules](https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/in-pharmatechnologist.com/article/2019/01/16/small-molecule-discovery-boosted-by-ai-and-big-data/9033903-1-eng-GB/Small-molecule-discovery-boosted-by-AI-and-big-data_wrbm_large.jpg)
 
